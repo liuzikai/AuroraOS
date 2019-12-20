@@ -5,7 +5,7 @@ NOTICE
 If you are working on your own ECE 391 project, **MAKE SURE** you follow the academic integrity regulations. **DO NOT**
 copy code here without proper citation.
 
-Authors
+AUTHORS
 -----
 Members of group 30:
 * Zikai Liu (zikail2@illinois.edu)
